@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Sebutkan rekomendasi obat untuk mengatasi sakit maag!",
+    "ground_truth_context": "Promag Suspensi, Maag Gel Suspensi, Acitral Suspensi, Sanmag Suspensi, Farmacrol Forte, Plantacid Sirup, dan Mylanta.",
+    "source": "NCBI, Halodoq, Biofarma, & Kemenkes RI"
+  },
+  {
+    "question": "Apa saja rekomendasi obat untuk meredakan gejala flu?",
+    "ground_truth_context": "Vicks Formula 44 Sirup, Rhinos SR, Intunal F, Panadol Cold & Flu, Nalgestan, Anadex, Demacolin, dan Alpara.",
+    "source": "Halodoq & Alodokter"
+  },
+  {
+    "question": "Sebutkan obat-obatan yang dapat membantu mengatasi diare!",
+    "ground_truth_context": "New Diatabs, Lodia, Opidiar Suspensi, Entrostop, Zinc, dan Pedialyte Original.",
+    "source": "Kemenkes RI, Alodokter, & Halodoq"
+  },
+  {
+    "question": "Sebutkan pilihan pengobatan atau obat untuk meredakan radang tenggorokan!",
+    "ground_truth_context": "Cooling 5 Mouth Spray, Degirol Hisap, Methylprednisolone, Lameson, Tantum Verde Oral Rinse, SP Troches Meiji, Lo Han Kuo Infusion, Sanjin Watermelon Frost, Efisol-C, dan Tantum Lozenges.",
+    "source": "Halodoq, Biofarma, Kemenkes RI, & Alodokter"
+  },
+  {
+    "question": "Apa rekomendasi obat yang spesifik untuk pilek dan alergi?",
+    "ground_truth_context": "Comtusi Pilek & Alergi Sirup, Paratusin, Rhinos SR, Alpara, dan Contrex Flu & Pilek.",
+    "source": "Kemenkes RI, NCBI, Biofarma, Alodokter, & Halodoc"
+  },
+  {
+    "question": "Apa saja pilihan obat kumur atau tablet hisap untuk radang tenggorokan?",
+    "ground_truth_context": "Betadine Gargle, Strepsils, Tantum Verde, Degirol Hisap, SP Troches Meiji, dan Efisol-C.",
+    "source": "Halodoq & Alodokter"
+  }
+]
